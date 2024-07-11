@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm Priyanshu, a passionate developer, engineer, researcher and technology enthusiast.
 
 ![Me](https://avatars.githubusercontent.com/pylhr)
-![Visitor Count](https://rushter.com/counter.svg)
+![HitCount](http://hits.dwyl.com/pylhr/pylhr.svg)
 
 ## 🔭 What I'm Working On
 
