@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm Priyanshu, a passionate developer, engineer, r
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- ![A Deep Dive into 'Map of the Territory' from Crafting Interpreters](https://www.linkedin.com/pulse/exploring-foundations-deep-dive-map-territory-from-crafting-lohar-ntj6c)
+- [A Deep Dive into 'Map of the Territory' from Crafting Interpreters](https://www.linkedin.com/pulse/exploring-foundations-deep-dive-map-territory-from-crafting-lohar-ntj6c)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📈 GitHub Stats
