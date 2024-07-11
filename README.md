@@ -48,4 +48,4 @@ Welcome to my GitHub profile! I'm Priyanshu, a passionate developer, engineer, r
 ## 📈 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pylhr&show_icons=true&theme=radical)
-![HitCount]([http://hits.dwyl.com/](https://visitor-badge.laobi.icu/badge?page_id=pylhr/pylhr.svg)
+![HitCount](https://visitor-badge.laobi.icu/badge?page_id=pylhr/pylhr.svg)
