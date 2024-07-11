@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm Priyanshu, a passionate developer, engineer, r
 
 ## 📝 Latest Blog Posts
 
-/*<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 - Coming Right up.
 <!-- BLOG-POST-LIST:END -->
 
