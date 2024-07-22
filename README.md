@@ -35,9 +35,19 @@ Welcome to my GitHub profile! I'm Priyanshu, a passionate developer, engineer, r
 
 ## 🛠 Technologies & Tools
 
-- **Languages:** C++, Python, JavaScript (Node.js), Java, Go, Typescript
-- **Frameworks:** React JS, Next.js, Express
-- **Tools:** Kali Linux, Fedora, WSL
+- **Programming Languages**: JavaScript, Python, Java, C++, C, Golang
+- **Web Development**: HTML, CSS, React, Node.js, Next.js, Django, Flask, TypeScript, Tailwind CSS
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **DevOps & Cloud**: Kubernetes, Docker, AWS Cloud, Azure Cloud, Jenkins
+- **Configuration Management**: Ansible
+- **Testing Frameworks**: JUnit, Selenium
+- **APIs and Web Services**: GraphQL
+- **Big Data Technologies**: Hadoop, Apache Spark
+- **Machine Learning and Data Science**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **Build Tools**: Maven, Gradle, Webpack
+- **Collaboration Tools**: Jira, Confluence, Slack
+- **Project Management**: Agile methodologies, Scrum
+- **OS & CLI**: Windows 11, Kali Linux, Fedora, Ubunut, WSL, Bash
 
 ## 📝 Latest Blog Posts
 
